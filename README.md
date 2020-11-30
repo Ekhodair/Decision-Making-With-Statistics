@@ -39,10 +39,10 @@ FetchMaker’s mission is to match up prospective dog owners with their perfect 
 
 **Project Goals:**
 
-Over the years, it have been seen that 8% of dogs in the FetchMaker system expected to be rescued. The CEO wants to know if whippets are significantly more or less likely to be a rescue.
-Three of their most popular mid-sized dog breeds are whippets, terriers, and pitbulls. Is there a significant difference in the average weights of these three dog breeds?
-Which of the pairs of these dog breeds differ from each other.
-Let's see if "poodle"s and "shihtzu"s have significantly different color breakdowns.
+* Over the years, it have been seen that 8% of dogs in the FetchMaker system expected to be rescued. The CEO wants to know if whippets are significantly more or less likely to be a rescue.
+* Three of their most popular mid-sized dog breeds are whippets, terriers, and pitbulls. Is there a significant difference in the average weights of these three dog breeds?
+* Which of the pairs of these dog breeds differ from each other.
+* Let's see if "poodle"s and "shihtzu"s have significantly different color breakdowns.
 
 Click [here](https://github.com/Ekhodair/Decision-Making-With-Statistics/blob/main/FetchMaker%20Start-up.py)
 ***
