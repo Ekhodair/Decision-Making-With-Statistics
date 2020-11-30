@@ -16,7 +16,7 @@ a)  0.99 $
 b)  1.99$, and
 c)  4.99 $.
 
-  Click [Here](https://github.com/Ekhodair/Decision-Making-With-Statistics/blob/main/Optimal%20Price%20Determination.ipynb) 
+  Click [here](https://github.com/Ekhodair/Decision-Making-With-Statistics/blob/main/Optimal%20Price%20Determination.ipynb) 
   ***
   
   ## 02. Sample Size Determination
