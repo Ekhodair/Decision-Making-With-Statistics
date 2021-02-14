@@ -2,7 +2,6 @@
 														
 # HYPOTHESIS TESTING WITH SCIPY
 ***
-***
 													
 ## 01. Optimal Price Determination through A/B Test
 
@@ -20,7 +19,7 @@ c)  4.99 $.
   ***
   
   ## 02. Sample Size Determination
-  ***
+ 
   Sample size determination for, Nosh Mish Mosh, a recipe and ingredient meal delivery service. They ship the raw materials and people get to cook it at their home! These rainbow fingerling potatoes don’t come cheap. They’d like to know for sure that they’ll be pulling in at least $1240 more every week. In order to make product and interface A/B testing decisions to grab more customers, here survey sample size determination is needed for decision making.
 
 **Project Goals:**
